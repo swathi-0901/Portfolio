@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     role: "Software Engineer",
     company: "Info Services",
     description: `In my role as a Software Engineer at Info Services, I work with info Services and iGuroo websites to create seamless user experiences by designing intuitive user flows and wireframes. Using Figma, HTML, CSS, JavaScript, and React, I develop interactive web applications that enhance user engagement. By analyzing user behavior patterns through Pendo analytics, I drive data-driven product improvements and optimize features to ensure a user-friendly platform.`,
-    technologies: ["React.js", "Figma", "Miro", "Pendo", "HTML","CSS", "JavaScript"],
+    technologies: ["React.js", "Figma", "Miro", "Pendo", "HTML","CSS", "JavaScript", "TypeScript"],
     demoLink: "https://www.infoservices.com/",
   },
   {
@@ -132,7 +132,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    githubLink: "https://swathi-0901.github.io/swathi-portfolio/",
+    githubLink: "https://swathi-0901.github.io/Portfolio/",
   },
 
   {

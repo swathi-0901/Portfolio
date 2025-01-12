@@ -1,3 +1,4 @@
+import React from "react";
 import { RiReactjsLine } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
 import { BiLogoPostgresql } from "react-icons/bi";
@@ -5,7 +6,7 @@ import { motion } from "framer-motion";
 import { FaPython } from 'react-icons/fa';
 import { SiRubyonrails } from 'react-icons/si';
 import { FaCode } from 'react-icons/fa';
-
+import { SiTypescript } from 'react-icons/si';
 
 const iconVariants = (duration) => ({
   initial: { y: -10 },
@@ -59,7 +60,6 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          
           <SiRubyonrails className="text-7xl text-red-500" />
         </motion.div>
         <motion.div
@@ -85,6 +85,14 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <BiLogoPostgresql className="text-7xl text-sky-700" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(4.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiTypescript className="text-7xl text-blue-500" />
         </motion.div>
       </motion.div>
     </div>

@@ -92,12 +92,12 @@ export const PROJECTS = [
     githubLink: "https://docs.google.com/document/d/1ll8nU8M5KCydSERtgxj-MVz_EFAYPRU6XqHUaeeFFds/edit?usp=sharing",
   },
   {
-    title: "QuikLearn",
+    title: "Predicting Heart Disease Using Machine Learning",
     image: project4,
     description:
-      "QuikLearn is an online learning platform for users with ADHD, autism, and other focusing issues, enabling them to read and listen to verbal presentations effectively. I developed it using the Ruby on Rails framework and integrated the Rev Ruby SDK for audio-to-text conversion, employing technologies like PostgreSQL, Active Storage, HTML, CSS, and JavaScript.",
-    technologies: ["Ruby on Rails", "Rev Ruby SDK", "PostgreSQL", "JavaScript"],
-    githubLink: "https://github.com/swathi-0901/QuikLearn",
+      "Developed a classification model to predict heart disease using a Kaggle dataset containing clinical parameters such as age, cholesterol levels, and blood pressure. Leveraged Python libraries like scikit-learn, pandas, and seaborn for data cleaning, feature engineering, and visualization, achieving high classification accuracy to assist in early diagnosis and risk assessment.",
+    technologies: ["Python", "scikit-learn", "Pandas"],
+    githubLink: "https://drive.google.com/drive/folders/1E7THeeK-lBbBOxfJoC-Vo3cJquw4QylX?usp=sharing",
 
   },
   {

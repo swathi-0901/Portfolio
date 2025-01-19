@@ -75,6 +75,15 @@ export const PROJECTS = [
   },
 
   {
+    title: "Shakticon Website",
+    image: project7,
+    description:
+      "Shakticon is a modern, interactive website built with React and JavaScript. It features a sleek user interface, vibrant animations, and seamless navigation between different sections. The website showcases various creative works and services, leveraging React for fast rendering and smooth transitions. The site includes a portfolio section, contact forms, and integrates responsive design, making it mobile-friendly. Shakticon also utilizes dynamic content rendering and API calls for delivering up-to-date information and media. With its engaging UI/UX design, it offers a smooth user experience across devices.",
+    technologies: ["React", "JavaScript", "CSS", "React Router", "Axios", "Framer Motion", "Firebase"],
+    githubLink: "https://www.shakticon.com/",
+  },
+
+  {
     title: "Car Web Application",
     image: project2,
     description: 
@@ -116,15 +125,6 @@ export const PROJECTS = [
     technologies: ["Java", "OOP", "Java Swing", "Database"],
     githubLink: "https://github.com/swathi-0901/Java-Project",
   },
-
-  {
-  title: "Shakticon Website",
-  image: project7,
-  description:
-    "Shakticon is a modern, interactive website built with React and JavaScript. It features a sleek user interface, vibrant animations, and seamless navigation between different sections. The website showcases various creative works and services, leveraging React for fast rendering and smooth transitions. The site includes a portfolio section, contact forms, and integrates responsive design, making it mobile-friendly. Shakticon also utilizes dynamic content rendering and API calls for delivering up-to-date information and media. With its engaging UI/UX design, it offers a smooth user experience across devices.",
-  technologies: ["React", "JavaScript", "CSS", "React Router", "Axios", "Framer Motion", "Firebase"],
-  githubLink: "https://www.shakticon.com/",
-},
 
   {
     title: "Portfolio Website",

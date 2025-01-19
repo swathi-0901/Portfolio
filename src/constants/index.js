@@ -87,7 +87,7 @@ export const PROJECTS = [
     title: "Difference Detection between Two images",
     image: project3,
     description:
-      "Created an image difference detection application using Python, SSIM for accurate image comparison, and OpenCV for drawing bounding boxes around differing regions, saving modified images in the system.",
+      "Created an image difference detection program using Python, SSIM for accurate image comparison, and OpenCV for drawing bounding boxes around differing regions, saving modified images in the system. The program takes 2 almost similar images of the same dimensions, marks their differences, and displays them.",
     technologies: ["Python", "SSIM", "OpenCV"],
     githubLink: "https://docs.google.com/document/d/1ll8nU8M5KCydSERtgxj-MVz_EFAYPRU6XqHUaeeFFds/edit?usp=sharing",
   },

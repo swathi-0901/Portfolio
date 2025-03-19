@@ -6,17 +6,25 @@ import project5 from "../assets/projects/project-5.jpg";
 import project6 from "../assets/projects/project-6.jpg";
 import project7 from "../assets/projects/project-7.jpg";
 import project8 from "../assets/projects/project-8.jpg";
+
 import project9 from "../assets/projects/project-9.jpg";
 import project10 from "../assets/projects/project-10.jpg";
 
 
 export const HERO_CONTENT = `Innovative Software Engineer with 4+ years of hands-on experience in building scalable applications using Python and React.js. Expertise in cloud integration, machine learning, and continuous integration practices. Skilled in full-stack development with a passion for cutting-edge technologies and problem-solving. Committed to continuous learning and driving impactful solutions for business success.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full-stack developer with a strong foundation in building scalable and efficient web applications. With over 4 years of hands-on experience in technologies such as React.js, Ruby on Rails, Python, and SQL, I have developed a comprehensive understanding of both front-end and back-end development. My journey began with a keen interest in technology, and it has evolved into a career focused on delivering impactful solutions through continuous learning and adaptation. I excel in collaborative settings and enjoy tackling complex problems to create high-quality, user-friendly applications. Beyond coding, I stay engaged with emerging technologies and contribute to open-source projects, reflecting my commitment to growth and innovation.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile web developer with a strong foundation in building scalable and efficient web applications. With over 4 years of hands-on experience in technologies such as React.js, Ruby on Rails, Python, and SQL, I have developed a comprehensive understanding of both front-end and back-end development. My journey began with a keen interest in technology, and it has evolved into a career focused on delivering impactful solutions through continuous learning and adaptation. I excel in collaborative settings and enjoy tackling complex problems to create high-quality, user-friendly applications. Beyond coding, I stay engaged with emerging technologies and contribute to open-source projects, reflecting my commitment to growth and innovation.`;
 
 export const EXPERIENCES = [
   {
-    year: "July 2024 - Present",
+    year: "February 2025 - Present",
+    role: "Web Specialist",
+    company: "Jade Scientific",
+    description: `As a Web Specialist, I develop and optimize WordPress websites using PHP, HTML5, CSS3, JavaScript, and frameworks like React and Vue.js, focusing on performance, SEO, accessibility, and cross-browser compatibility. I implement custom themes, plugins, and integrations, streamline workflows with tools like Webpack, npm, and Git, and collaborate with marketing teams to align web solutions with business goals. Additionally, I manage NetSuite ERP data, ensuring accuracy and consistency, while conducting testing and debugging to ensure website reliability, security, and compliance.`,
+    technologies: ["React.js", "NetSuite", "Vue.js", "HTML","CSS", "JavaScript", "Wordpress"],
+  },
+  {
+    year: "August 2024 - February 2025",
     role: "Software Engineer",
     company: "Info Services",
     description: `In my role as a Software Engineer at Info Services, I work with info Services and iGuroo websites to create seamless user experiences by designing intuitive user flows and wireframes. Using Figma, HTML, CSS, JavaScript, and React, I develop interactive web applications that enhance user engagement. By analyzing user behavior patterns through Pendo analytics, I drive data-driven product improvements and optimize features to ensure a user-friendly platform.`,

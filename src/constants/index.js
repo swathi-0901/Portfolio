@@ -18,7 +18,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile web developer with a s
 export const EXPERIENCES = [
   {
     year: "February 2025 - Present",
-    role: "Web and Data Administrator",
+    role: "Web and Database Administrator",
     company: "Jade Scientific",
     description: `I develop and optimize WordPress websites using PHP, HTML5, CSS3, JavaScript, and frameworks like React and Vue.js, focusing on performance, SEO, accessibility, and cross-browser compatibility. I implement custom themes, plugins, and integrations, streamline workflows with tools like Webpack, npm, and Git, and collaborate with marketing teams to align web solutions with business goals. Additionally, I manage NetSuite ERP data, ensuring accuracy and consistency, while conducting testing and debugging to ensure website reliability, security, and compliance.`,
     technologies: ["React.js", "NetSuite", "Vue.js", "HTML","CSS", "JavaScript", "Wordpress"],
